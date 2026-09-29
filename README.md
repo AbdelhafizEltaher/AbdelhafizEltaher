@@ -1,16 +1,23 @@
-## Hi there 👋
+# Abdelhafiz Eltaher
 
-<!--
-**AbdelhafizEltaher/AbdelhafizEltaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Engineer | Angular, React & Next.js | Full-stack JavaScript/TypeScript**
 
-Here are some ideas to get you started:
+I build responsive, maintainable web applications for complex business workflows. My experience spans ERP and facility-management dashboards, real-estate platforms, sports-club operations, and e-commerce. I focus on clear interfaces, reusable components, performance, and reliable API integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Frontend:** Angular, React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express, MongoDB
+- **Engineering:** Component architecture, microfrontends, CI/CD, code review
+
+### Selected projects
+
+- **[Home Bundle Builder](https://github.com/AbdelhafizEltaher/home-bundle-builder)** - A React and TypeScript product configurator with synchronized quantities, live pricing, and saved configurations.
+- **[RMG Task](https://github.com/AbdelhafizEltaher/RMG-TASK)** - An Angular demo for managing products and invoices, with a dashboard and a mock REST API.
+- **[Task Background Manager](https://github.com/AbdelhafizEltaher/task-background-manager)** - An Angular app for scheduling data-fetching tasks, tracking progress, and pausing or resuming work.
+
+### Beyond code
+
+I've led frontend development for business applications and taught full-stack development with React, Next.js, and Node.js. I enjoy turning detailed requirements into interfaces people can use with confidence.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/abdelhafiz-ibrahim-abdelhafiz/)
